@@ -2,6 +2,13 @@
 
 A simple command-line based task manager that stores tasks in an Excel workbook using Python's `openpyxl`. Add, view, filter, update, and export your tasks from a clean CLI interface — no complex software needed.
 
+# Tech stack
+
+| Module                 | Purpose                                |
+|------------------------|----------------------------------------|
+| openpyxl               | Create and manipulate Excel files programmatically|
+| Python I/O             | Create files, read/write data, and validate paths |
+| CLI Design             | Basic command line interface (menu, input, feedback) |
 ---
 
 ## 📌 Features
@@ -18,6 +25,7 @@ A simple command-line based task manager that stores tasks in an Excel workbook 
 
 | Task ID | Task Name | Project | Date Created | Due Date | Status | Notes |
 |---------|-----------|---------|---------------|----------|--------|-------|
+|         |           |         |               |          |        |       |
 
 ---
 

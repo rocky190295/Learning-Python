@@ -6,18 +6,17 @@ Welcome to my personal repository of beginner-to-intermediate Python projects. E
 
 ## 📂 Projects Overview
 
-| Project Name                 | Description                                           | Link                                |
-|-----------------------------|-------------------------------------------------------|-------------------------------------|
-|  Excel Task Tracker        | CLI app to manage and track tasks in an Excel sheet   | [View Project](./ExcelTaskTracker/) |
-|  File Organizer            | Automatically sort files into folders by type/date    | [View Project](./FileOrganizer/)    |
-|  Simple Timesheet App (Planned) | Log daily hours and projects into CSV/Excel      | _Coming soon_                       |
-|  Config File Parser (Planned) | Parse .ini or .cfg into structured dictionaries    | _Coming soon_                       |
-|  To-Do list (Planned) | CLI task manager that saves tasks in a .txt file           | _Coming soon_                       |
-|  Expense Tracker (Planned) | Log personal expenses into a CSV file and view totals | _Coming soon_                       |
+| Project Name                 | Description                                           | Link                                |Skills Used                           |
+|-----------------------------|-------------------------------------------------------|-------------------------------------|---------------------------------------|
+|  Excel Task Tracker        | CLI app to manage and track tasks in an Excel sheet   | [View Project](./ExcelTaskTracker/) |openpyxl, file I/O, CLI                 |
+|  File Organizer            | Automatically sort files into folders by type/date    | [View Project](./FileOrganizer/)    |os, shutil, datetime, CLI, modular code |
 |  Basic Calculator	(Planned) | CLI calculator for +, –, ×, ÷, with input validation | _Coming soon_                       |
 |  Random Password Generator (Planned) | Generate secure passwords with customizable rules | _Coming soon_                 |
 |  Dice Roller Simulation (Planned) | Simulate dice rolls and probability in CLI     | _Coming soon_                       |
 |  Number Guessing Game (Planned) | User guesses a random number with feedback       | _Coming soon_                       |
+|  Weather Notifier using API (Planned) | Fetches weather from API and sends updates via email or on screen. | _Coming soon_ |
+|  Resume Keyword Matcher (Planned)| Compare resume text with job descriptions to find keyword matches | _Coming soon_     |
+|  GitHub Repo Tracker + Auto-Report (Planned)| Track Github metrics and generate periodic visual reports.| _Coming soon_ |
 ---
 
 ## 🎯 Objective
@@ -31,7 +30,7 @@ Welcome to my personal repository of beginner-to-intermediate Python projects. E
 ## 👨‍💻 Author
 
 **Rakshit Hegde (Rocky)**  
-Technical Sales Specialist @ Siemens Gamesa  
+Technical Specialist @ Siemens Gamesa  
 📌 Currently building practical Python projects for automation and tooling.
 
 ---

@@ -1,4 +1,4 @@
-# 🗂️ File Organizer (Python)
+#  File Organizer (Python)
 
 A fully modular file organization utility that helps you clean up any folder (ex: Downloads) by sorting files either:
 - By file type (Like PDF, JPG, DOCX ...)
@@ -17,7 +17,7 @@ Designed with reusability and future GUI integration in mind
 | collections.defaultdict| Efficient counting/summarizing         |
 ---
 
-## ✅ Features
+##  Features
 - Organize files by type (file extension)
 - irganize file by modification date (year/Month)
 - Automatically create necessary folders

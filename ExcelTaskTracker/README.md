@@ -1,4 +1,4 @@
-# ✅ Excel Task Tracker
+#  Excel Task Tracker
 
 A simple command-line based task manager that stores tasks in an Excel workbook using Python's `openpyxl`. Add, view, filter, update, and export your tasks from a clean CLI interface — no complex software needed.
 
@@ -11,7 +11,7 @@ A simple command-line based task manager that stores tasks in an Excel workbook 
 | CLI Design             | Basic command line interface (menu, input, feedback) |
 ---
 
-## 📌 Features
+##  Features
 
 - Add new tasks with project name, due date, and notes
 - View all tasks in Excel format
@@ -21,7 +21,7 @@ A simple command-line based task manager that stores tasks in an Excel workbook 
 
 ---
 
-## 📄 Excel File Format
+##  Excel File Format
 
 | Task ID | Task Name | Project | Date Created | Due Date | Status | Notes |
 |---------|-----------|---------|---------------|----------|--------|-------|
@@ -29,7 +29,7 @@ A simple command-line based task manager that stores tasks in an Excel workbook 
 
 ---
 
-## 🧰 How It Works
+##  How It Works
 
 1. First run will create `task_tracker.xlsx` with headers
 2. User inputs task details via terminal prompts

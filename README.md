@@ -6,12 +6,12 @@ Welcome to my personal repository of beginner-to-intermediate Python projects. E
 
 ## 📂 Projects Overview
 
-| Project Name                 | Description                                           | Link                                |Skills Used                           |
-|-----------------------------|-------------------------------------------------------|-------------------------------------|---------------------------------------|
-|  Excel Task Tracker        | CLI app to manage and track tasks in an Excel sheet   | [View Project](./ExcelTaskTracker/) |openpyxl, file I/O, CLI                 |
-|  File Organizer            | Automatically sort files into folders by type/date    | [View Project](./FileOrganizer/)    |os, shutil, datetime, CLI, modular code |
-|  Basic Calculator	(Planned) | CLI calculator for +, –, ×, ÷, with input validation | [View Project](./BasicCalculator/)  |opeartor module, input(), loops         |
-|  Random Password Generator (Planned) | Generate secure passwords with customizable rules | _Coming soon_                 |
+| Project Name                 | Description                                           | Link                                |Skills Used                            |
+|-----------------------------|-------------------------------------------------------|-------------------------------------|----------------------------------------|
+|  Excel Task Tracker        | CLI app to manage and track tasks in an Excel sheet   | [View Project](./ExcelTaskTracker/) | openpyxl, file I/O, CLI                 |
+|  File Organizer            | Automatically sort files into folders by type/date    | [View Project](./FileOrganizer/)    | os, shutil, datetime, CLI, modular code |
+|  Basic Calculator	         | CLI calculator for +, –, ×, ÷, with input validation | [View Project](./BasicCalculator/)  | opeartor module, input(), loops         |
+|  Random Password Generator | Generate secure passwords with customizable rules |[View Project](./RandomPasswordGenerator)| random. string, input(), functions, loops                              |
 |  Dice Roller Simulation (Planned) | Simulate dice rolls and probability in CLI     | _Coming soon_                       |
 |  Number Guessing Game (Planned) | User guesses a random number with feedback       | _Coming soon_                       |
 |  Weather Notifier using API (Planned) | Fetches weather from API and sends updates via email or on screen. | _Coming soon_ |
